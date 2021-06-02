@@ -27,7 +27,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jstevenperry/node-modules"
+    "url": "https://github.com/edwardxycai/winston-modules.git"
+  },
+  "dependencies": {
+    "log4js": "^3.0.2",
+    "winston": "^3.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.6",
@@ -64,8 +68,5 @@
   },
   "eslintIgnore": [
     "node_modules"
-  ],
-  "dependencies": {
-    "winston": "^3.3.3"
-  }
+  ]
 }
