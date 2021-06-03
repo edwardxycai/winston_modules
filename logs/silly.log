@@ -1,0 +1,6 @@
+{"message":"Trace message, Winston!","level":"silly"}
+{"message":"Debug message, Winston!","level":"debug"}
+{"message":"A bit more info, Winston!","level":"verbose"}
+{"message":"Hello, Winston!","level":"info"}
+{"message":"Heads up, Winston!","level":"warn"}
+{"message":"Danger, Winston!","level":"error"}
